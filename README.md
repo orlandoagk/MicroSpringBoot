@@ -2,7 +2,7 @@
 
 ## Ejecucion
 
-1. `git clone `
+1. `git clone https://github.com/orlandoagk/MicroSpringBoot.git`
 2. `mvn compile`
 3. `mvn clean package`
 4. `java -cp target\classes co.edu.escuelaing.SpringBoot.MicroSpringBoot co.edu.escuelaing.SpringBoot.Controller`
